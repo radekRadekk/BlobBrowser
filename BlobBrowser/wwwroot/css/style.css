@@ -1,0 +1,44 @@
+﻿body {
+    background-color: darkgray;
+}
+
+.container {
+    overflow: auto;
+}
+
+/*.parcelMachineChoice {*/
+/*    margin-top: 32px;*/
+/*    margin-bottom: 32px;*/
+/*}*/
+
+/*.parcelMachineChoice .row {*/
+/*    margin: 32px;*/
+/*}*/
+
+/*.parcelMachineChoice .btn {*/
+/*    background-color: brown;*/
+/*}*/
+
+
+.element {
+    margin-top: 32px;
+    margin-bottom: 32px;
+}
+
+.element .btn {
+    margin-bottom: 10px;
+    margin-top: 10px;
+    background-color: brown;
+}
+
+.element .table {
+    margin: 10px;
+}
+
+.modal-footer .btn {
+    background-color: brown;
+}
+
+.btn-secondary {
+    margin: 16px;
+}
